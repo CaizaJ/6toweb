@@ -1,0 +1,44 @@
+{
+  "title": "DIÁLOGO MIARI",
+  "date": "8/11/24",
+  "areaCodes": [
+    "lleng"
+  ],
+  "areas": {
+    "es": "Lenguas"
+  },
+  "levelCodes": [
+    "PRI"
+  ],
+  "levels": {
+    "es": "Primaria (6-12)"
+  },
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "dialogo_mAiari.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 6,
+  "totalSize": 108133,
+  "files": [
+    "dialogo_mAiari.jclic",
+    "dialogo_mAiari.jclic.js",
+    "favicon.ico",
+    "g1-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}
